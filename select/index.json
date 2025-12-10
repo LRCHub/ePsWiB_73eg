@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "自由",
+  "base_artist": "Carz",
+  "createdAt": "2025-12-10T07:57:36.612235Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "自由",
+      "artist": "張震嶽",
+      "has_synced": true,
+      "path": "select/01_自由_張震嶽.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "自由",
+      "artist": "张震岳",
+      "has_synced": true,
+      "path": "select/02_自由_张震岳.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "自由 (《鑽石人生》English version + original demo lyrics)",
+      "artist": "AGA",
+      "has_synced": true,
+      "path": "select/03_自由_(《鑽石人生》English_version_+_original_demo_lyrics)_AGA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "自由",
+      "artist": "AGA",
+      "has_synced": true,
+      "path": "select/04_自由_AGA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "自由",
+      "artist": "Zhang Zhen Yue",
+      "has_synced": true,
+      "path": "select/05_自由_Zhang_Zhen_Yue.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "自由",
+      "artist": "Della",
+      "has_synced": true,
+      "path": "select/06_自由_Della.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "自由",
+      "artist": "李心潔",
+      "has_synced": true,
+      "path": "select/07_自由_李心潔.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "自由 - Live",
+      "artist": "劉若英",
+      "has_synced": true,
+      "path": "select/08_自由_-_Live_劉若英.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "自由 - “鑽石人生” Demo Lyrics",
+      "artist": "AGA",
+      "has_synced": true,
+      "path": "select/09_自由_-_“鑽石人生”_Demo_Lyrics_AGA.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "自由",
+      "artist": "那英",
+      "has_synced": false,
+      "path": "select/10_自由_那英.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "自由",
+      "artist": "刘若英",
+      "has_synced": false,
+      "path": "select/11_自由_刘若英.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wishes 自由",
+      "artist": "Takeem",
+      "has_synced": true,
+      "path": "select/12_Wishes_自由_Takeem.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "自由 (feat. 百足)",
+      "artist": "Carz",
+      "has_synced": false,
+      "path": "select/pl_01_自由_(feat._百足)_Carz.txt"
+    }
+  ]
+}
